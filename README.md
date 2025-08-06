@@ -4,7 +4,7 @@
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql)
 
 # Background
-Driven by my interest in domain of data analytics this project have done through the [sql course](/https://www.lukebarousse.com/sql) I passed recently. In this project I analyzed top-paid and In-demand skills, streamlining job posts data via diffrent recouses to find optimal job in data analysis
+Driven by my interest in domain of data analytics this project have done through the [SQL course](https://www.lukebarousse.com/sql) I passed recently. In this project I analyzed top-paid and In-demand skills, streamlining job posts data via diffrent recouses to find optimal job in data analysis
 
 The analyses have packed with insights on job titles, salaries, locations, and essential skills.
 
